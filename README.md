@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Kingslly RA</h1>
-<h3 align="center">A passionate AWS/DevOps Engineer from Tamilnadu,India</h3>
+<h3 align="center">A passionate AWS/DevOps Engineer from Tamilnadu, India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
