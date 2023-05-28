@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kingsllyra@yahoo.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Sc93ysjO-RYQI1fccVN3PljmsZHUWrVF/view](https://drive.google.com/file/d/1Sc93ysjO-RYQI1fccVN3PljmsZHUWrVF/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Sc93ysjO-RYQI1fccVN3PljmsZHUWrVF/view?usp=sharing](https://drive.google.com/file/d/1Sc93ysjO-RYQI1fccVN3PljmsZHUWrVF/view?usp=sharing)
 
 - ⚡ Fact **Plenty of fish is there to catch in Ocean.. prepare well**
 
