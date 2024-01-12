@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **AWS Cloud Services, DevOps Tools...**
 
-- 📫 How to reach me **kingsllyra@yahoo.com**
+- 📫 How to reach me **kingslly.ra23@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Sc93ysjO-RYQI1fccVN3PljmsZHUWrVF/view?usp=sharing](https://drive.google.com/file/d/1Sc93ysjO-RYQI1fccVN3PljmsZHUWrVF/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1at5voqzb2tWlqBm5lWLVx8VgdJKFgoUj/view?usp=sharing]
 
 - ⚡ Fact **Plenty of fish is there to catch in Ocean.. prepare well**
 
