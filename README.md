@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **kingslly.ra23@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1at5voqzb2tWlqBm5lWLVx8VgdJKFgoUj/view?usp=sharing]
-
 - ⚡ Fact **Plenty of fish is there to catch in Ocean.. prepare well**
 
 <h3 align="left">Connect with me:</h3>
