@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **AWS Cloud Services, DevOps Tools...**
 
-- 📫 How to reach me **kingslly.ra23@gmail.com**
+- 📫 How to reach me **iam.kingslly@gmail.com**
 
 - ⚡ Fact **Plenty of fish is there to catch in Ocean.. prepare well**
 
