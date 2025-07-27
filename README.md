@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently seeking job on **ServiceNow Engineer**
 
-- 🌱 I’m currently learning **DevOps Tools...**
+- 🌱 I’m currently learning **ServiceNow Module and Fundamentals...**
 
 - 💬 Ask me about **AWS Cloud Services, DevOps Tools, ServiceNow (ITSM) ...**
 
