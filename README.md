@@ -7,7 +7,7 @@
 
 - I am a Graduated Bachelors in Engineering in Mechanical Engineering from Kongunadu College of Engineering and Technology.
 
-- 🔭 I’m currently seeking job on **ServiceNow Engineer**
+- 🔭 I’m currently seeking job on **ServiceNow Developer**
 
 - 🌱 I’m currently learning **ServiceNow Module and Fundamentals...**
 
