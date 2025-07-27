@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Kingslly RA</h1>
-<h3 align="center">A passionate AWS/DevOps Engineer from Tamilnadu, India</h3>
+<h3 align="center">A passionate Cloud DevOps/ServiceNow Developer from Tamilnadu, India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
@@ -7,11 +7,11 @@
 
 - I am a Graduated Bachelors in Engineering in Mechanical Engineering from Kongunadu College of Engineering and Technology.
 
-- 🔭 I’m currently seeking job on **AWS/DevOps Engineer**
+- 🔭 I’m currently seeking job on **ServiceNow Engineer**
 
 - 🌱 I’m currently learning **DevOps Tools...**
 
-- 💬 Ask me about **AWS Cloud Services, DevOps Tools...**
+- 💬 Ask me about **AWS Cloud Services, DevOps Tools, ServiceNow (ITSM) ...**
 
 - 📫 How to reach me **iam.kingslly@gmail.com**
 
